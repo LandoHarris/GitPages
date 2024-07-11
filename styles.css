@@ -1,14 +1,14 @@
 /*General Styling*/
 body{
-    color:black;
+    color:Black;
     font-family: "Times New Roman", Times, serif;
+    font-size: large;
     margin: 0;
     background-image: url("https://raw.githubusercontent.com/LandoHarris/GitPages/main/Images/Image.png");
-   
-    background-color: black;
+    background-origin: center ;
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
     text-align: center;
+    background-color:hsl(from color h s l) 
 }
-
