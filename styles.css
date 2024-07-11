@@ -1,5 +1,5 @@
 /*General Styling*/
-body ,h1,p{
+body{
     color:black;
     font-family: "Times New Roman", Times, serif;
     margin: 0;
@@ -12,3 +12,10 @@ body ,h1,p{
     text-align: center;
 }
 
+h1, p {
+    font-family: "Times New Roman", Times, serif;
+    color:black;
+    background-color: lightslategrey;
+    background-position: center;
+    text-align: center;
+}
