@@ -2,7 +2,7 @@ body{
     color:white;
     font-family: "Times New Roman", Times, serif;
     margin: 0;
-    background: url(../Images/Background.jpg);
+    background: href="../Images/Background.jpg";
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
