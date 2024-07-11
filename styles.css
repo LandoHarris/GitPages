@@ -1,8 +1,11 @@
+/*General Styling*/
 body{
     color:white;
     font-family: "Times New Roman", Times, serif;
     margin: 0;
     background-image: url("https://raw.githubusercontent.com/LandoHarris/GitPages/main/Images/Image.png");
+   
+    background-color: black;
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
