@@ -24,4 +24,6 @@ li a {
 
 li a:hover {
     background-color: #111;
+    text-align: center;
+
 }
