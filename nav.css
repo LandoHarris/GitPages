@@ -8,11 +8,12 @@ ul{
 }
 li{
     float: center;
+    text-decoration: none;
 }
 
 li a {
     display: block;
-    color: white;
+    color: black;
     padding: 14px 16px;
     text-decoration: none;
   }
